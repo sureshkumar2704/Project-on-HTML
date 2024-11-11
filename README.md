@@ -1,1 +1,1 @@
-This project is all about my college Rajalakshmi Institute of Technology (RIT) located at Chennai. This is developed only using the HTML program and the basic and simple inline CSS codes. 
+This project is all about my college Rajalakshmi Institute of Technology (RIT), Chennai. This is developed only using the HTML program and the basic and simple inline CSS codes. 
